@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DianaFielding, aspiring data scientist
+- 👩🏻‍🎓 M.S. Information Technology, Data Analytics Concentration from California Lutheran University (Feb. 2022)
+- 👀 I’m interested in all areas of data engineering and analytics
+- 📫 Reach me at Diana.L.Fielding@gmail.com
